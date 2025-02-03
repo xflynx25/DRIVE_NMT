@@ -19,11 +19,11 @@ cd neural-machine-translation
 ```
 Create a new python environment for the project:
 ```bash
-python -m venv nmt
+python -m venv nmt-env
 ```
 Activate the newly created environment:
 ```bash
-source nmt/bin/activate  # On Windows: .\venv\Scripts\activate
+source nmt-env/bin/activate  # On Windows: .\nmt-env\Scripts\activate
 ```
 Install all the dependencies:
 ```bash
