@@ -1,0 +1,5 @@
+[John] <3/3/25>
+- Requirements specify Python >3.7 and < 3.11
+- Mac doesn't support cuda so must delete line from requirements and not do training, 
+    also triton is not supported
+- deep translator doesn't support dzongkha ... so trying google cloud (300$ free credits)
