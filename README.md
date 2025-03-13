@@ -29,3 +29,6 @@ Install all the dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Evaluation
+what is [BLEU?](https://towardsdatascience.com/foundations-of-nlp-explained-bleu-score-and-wer-metrics-1a5ba06d812b/)
