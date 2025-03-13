@@ -1,0 +1,282 @@
+{5: '28-year-old Vidal had joined Barça three seasons ago, from Sevilla.'}
+{7: "The protest started around 11:00 local time (UTC+1) on Whitehall opposite the police-guarded entrance to Downing Street, the Prime Minister's official residence."}
+{11: "Nadal's head to head record against the Canadian is 7–2."}
+{13: 'Nadal bagged 88% net points in the match winning 76 points in the first serve.'}
+{14: 'After the match, King of Clay said, "I am just excited about being back in the final rounds of the most important events. I am here to try to win this."'}
+{15: '"Panama Papers" is an umbrella term for roughly ten million documents from Panamanian law firm Mossack Fonseca, leaked to the press in spring 2016.'}
+{19: 'Born in Hong Kong, Ma studied at New York University and Harvard Law School and once held an American permanent resident "green card".'}
+{25: "Ovechkin's first assist of the night was on the game-winning goal by rookie Nicklas Backstrom;"}
+{40: 'John Grant, from WNED Buffalo (Reading Rainbow\'s home station) said "Reading Rainbow taught kids why to read,... the love of reading — [the show] encouraged kids to pick up a book and to read."'}
+{43: 'Fred currently has winds of 105 miles per hour (165 km/h) and is moving towards the northwest.'}
+{44: 'Fred is the strongest tropical cyclone ever recorded so far south and east in the Atlantic since the advent of satellite imagery, and only the third major hurricane on record east of 35°W.'}
+{48: "Mr Reid managed to drive the New Zealand's A1GP car, Black Beauty at speeds over 160km/h seven times over the bridge."}
+{49: 'The New Zealand police had trouble using their speed radar guns to see how fast Mr Reid was going because of how low Black Beauty is, and the only time the police managed to clock Mr Reid was when he slowed down to 160km/h.'}
+{53: 'The hearing also marks the date for the suspect’s right to a speedy trial.'}
+{56: '"If it becomes commercial, we should have it. That is, there\'s no in-principle objection to nuclear energy" Mr Costello said.'}
+{57: 'According to Ansa, "police were concerned by a couple of top-level hits they feared might spark a full-blown war of succession.'}
+{59: 'These bosses had been reined in by Provenzano when he put an end to the Riina-driven war against the state that claimed the lives of Mafia crusaders Giovanni Falcone and Paolo Borsellino in 1992."'}
+{61: 'During his 2 hour speech he stated that "Today Apple is going to reinvent the phone, We are going to make history today".'}
+{64: 'The original bill was drafted by former mayor of São Paulo, Marta Suplicy. The proposed legislation, after being amended, is now in the hands of Roberto Jefferson.'}
+{73: 'A few weeks ago, after the information published by the journalist Makis Triantafylopoulos in his popular Television show "Zoungla" in Alpha TV, the member of Parliament and lawyer, Petros Mantouvalos was abdicated as members of his office had been involved in illegal graft and corruption.'}
+{76: 'He did, however, reiterate his earlier statement that Roe v. Wade was the "settled law of the land", emphasizing the importance of consistent Supreme Court rulings.'}
+{83: 'Its second claw was larger, giving rise to the name Hesperonychus which means "western claw."'}
+{104: 'They include financial restrictions and a ban by the European Union on the export of crude oil, from which the Iranian economy receives 80% of its foreign income.'}
+{106: 'The country\'s supreme leader, Ayatollah Ali Khamenei, has described the dependency on oil as "a trap" dating from before Iran\'s Islamic revolution in 1979 and from which the country should free itself.'}
+{111: "“It will move over the west coast of northern California and will light the sky from California through central Oregon and on through Nevada and Idaho and into Utah,” Tom Duxbury, Stardust's project manager said."}
+{122: 'The United States embassy located in Nairobi, Kenya has issued a warning that "extremists from Somalia" are planning to launch suicide bomb attacks in Kenya and Ethiopia.'}
+{123: 'The U.S. says it has received information from an undisclosed source that specifically mentions the use of suicide bombers to will blow up "prominent landmarks" in Ethiopia and Kenya.'}
+{124: 'Long before The Daily Show and The Colbert Report, Heck and Johnson envisioned a publication that would parody the news—and news reporting—when they were students at UW in 1988.'}
+{133: 'The sign was not physically damaged; the modification was done using black tarpaulins decorated with signs of peace and heart to alter the "O" to read lowercase "e".'}
+{140: 'By early today, winds were around 83 km/h, and it was expect to keep weakening.'}
+{143: '"Based on this fossil, that means the split is much earlier than has been anticipated by the molecular evidence.'}
+{144: 'That means everything has to be put back," said researcher at the Rift Valley Research Service in Ethiopia and a co-author of the study, Berhane Asfaw.'}
+{150: "Sir Richard Branson's Virgin Group had a bid for the bank rejected prior to the bank’s nationalisation."}
+{151: 'In 2010, while nationalised, the current high street bank Northern Rock plc was split from the ‘bad bank’, Northern Rock (Asset Management).'}
+{152: 'Virgin have only purchased the ‘good bank’ of Northern Rock, not the asset management company.'}
+{162: 'They also said in a statement, "The crew is currently working to determine the best method of safely extracting the ship".'}
+{164: 'It is assigned to the U.S. Navy’s Seventh Fleet and based in Sasebo, Nagasaki in Japan.'}
+{169: 'Perry specifically said, "There are few places in the world better equipped to meet the challenge that is posed in this case."'}
+{170: 'The governor also stated, "Today, we learned that some school aged children have been identified as having had contact with the patient."'}
+{171: 'He went on to say, "This case is serious. Rest assured that our system is working as well as it should."'}
+{182: '"It is now important from both a public health and criminal justice perspective that the legislation be enacted as soon as possible", said a government spokesperson.'}
+{191: 'Fire captain Scott Kouns said, "It was a hot day in the Santa Clara with temperatures in the 90s.'}
+{192: 'Any length of time trapped on a roller coaster would be uncomfortable, to say the least, and it took at least an hour to get the first person off the ride."'}
+{198: '"Apart from the fever and a sore throat, I feel well and in good shape to carry out my work by telecommuting.'}
+{199: 'I expect to return to all my duties on Monday," Arias said in a statement.'}
+{202: 'The precipitation, reaching 6.34 inches at a gauge on Oahu, was described as "beneficial".'}
+{218: 'Not all were supportive of the inclusion of the women’s ranks.'}
+{219: '2004 Olympic silver medallist Amir Khan said, "Deep down I think women shouldn’t fight. That’s my opinion."'}
+{224: 'The judge told Blake it was "almost inevitable" he was going to be sent to jail.'}
+{234: '"We were all simply in shock," the mother stated.'}
+{235: 'When asked what the father said, she answered "He couldn\'t say a thing - he just stood there blinking."'}
+{236: '"It\'s going to behave like water. It\'s transparent just the way water is.'}
+{238: 'As far as we know, there is only one planetary body that displays more dynamism than Titan, and its name is Earth," added Stofan.'}
+{243: '"Thanks for those who supported a convict like me," Siriporn was quoted as saying at a press conference.'}
+{244: '"Some may not agree but I don\'t care.'}
+{246: 'Since Pakistani independence from British rule in 1947, the Pakistani President has appointed "Political Agents" to govern FATA, who exercise near-complete autonomous control over the areas.'}
+{252: 'Leonov, also known as "cosmonaut No. 11", was part of the Soviet Union\'s original team of cosmonauts.'}
+{253: 'On March 18, 1965, he performed the first manned extravehicular activity (EVA), or "spacewalk", remaining alone outside the spacecraft for just over twelve minutes.'}
+{254: 'He received the "Hero of the Soviet Union", the Soviet Union\'s highest honor, for his work.'}
+{255: 'Ten years later, he led the Soviet part of the Apollo–Soyuz mission symbolizing that the Space Race was over.'}
+{256: 'She said, "There is no intelligence to suggest that an attack is expected imminently.'}
+{257: 'However, the reduction of the threat level to severe does not mean the overall threat has gone away."'}
+{263: 'The commissioner said, "We haven\'t yet agreed on rules of origin and tariff con[c]essions, but the framework we have is enough to start trading on July 1, 2020".'}
+{269: '21-year-old Jesus joined Manchester City last year in January 2017 from Brazilian club Palmeiras for a reported fee of £27 million.'}
+{288: '"The CCTV would certainly send a strong signal to those people working with animals that their welfare is of the highest priority."'}
+{294: 'The Luno had 120–160 cubic metres of fuel aboard when it broke down and high winds and waves pushed it into the breakwater.'}
+{333: 'It was followed by the Istanbul State Symphony Orchestra, a Janissary band, and the singers Fatih Erkoç and Müslüm Gürses.'}
+{336: 'To finish, Turkish dance group Fire of Anatolia performed the show "Troy".'}
+{341: 'Regarding the global financial situation, Zapatero continued by saying that "the financial system is a part of the economy, a crucial part.'}
+{342: 'We have a year-long financial crisis, which has had its most acute moment in the past two months, and I think now the financial markets are beginning to recover."'}
+{345: '"Luckily nothing happened to me, but I saw a macabre scene, as people tried to break windows in order to get out.'}
+{347: 'One of the panes finally broke, and they started to get out by the window," said survivor Franciszek Kowal.'}
+{353: 'The water molecules make an invisible skin on the water’s surface that allows things like the needle to float on top of the water.'}
+{358: 'They do this by emitting a tiny particle of light called a "photon".'}
+{359: 'Scientists call this process "stimulated emission of radiation" because the atoms are stimulated by the bright light, causing the emission of a photon of light, and light is a type of radiation.'}
+{377: 'The outer-part we see when we look at the Sun is called the photosphere, which means "ball of light".'}
+{385: 'Hangeul is the only purposely invented alphabet in popular daily use. The alphabet was invented in 1444 during the reign of King Sejong (1418 – 1450).'}
+{387: 'He originally named the Hangeul alphabet Hunmin Jeongeum, which means "the correct sounds for the instruction of the people".'}
+{393: "Germany code-named the attack “Operation Sealion”. Most of the British Army's heavy weapons and supplies had been lost when it evacuated from Dunkirk, so the army was fairly weak."}
+{394: 'But the Royal Navy was still much stronger than the German Navy (“Kriegsmarine”) and could have destroyed any invasion fleet sent across the English Channel.'}
+{396: 'Let\'s start with an explanation about Italy\'s plans. Italy was mainly the "little brother" of Germany and Japan.'}
+{406: 'Yes! King Tutankhamun, sometimes referred to as "King Tut" or "The Boy King", is one of the most well known ancient Egyptian kings in modern times.'}
+{419: 'Hindi and Urdu are similar in vocabulary but different in script; in everyday conversations, speakers of both languages can usually understand each other.'}
+{422: 'It was based on the German alphabet and one character "Õ/õ" was added.'}
+{427: 'European Turkey (eastern Thrace or Rumelia in the Balkan peninsula) includes 3% of the country.'}
+{482: 'The believer seeks a direct experience, intuition, or insight into divine reality/the deity or dieties.'}
+{487: 'Sikhs call their religion Gurmat, which is Punjabi for "way of the guru". The guru is a fundamental aspect of all Indian religions but in Sikhism has taken on an importance that forms the core of Sikh beliefs.'}
+{488: 'The religion was founded in the 15th century by Guru Nanak (1469–1539). There followed in succession a further nine gurus.'}
+{508: 'Attention Deficit Disorder "is a neurological syndrome whose classic defining triad of symptoms including impulsivity, distractibility, and hyperactivity or excess energy".'}
+{509: 'It is not a learning disability, it is a learning disorder; it "affects 3 to 5 percent of all children, perhaps as many as 2 million American children".'}
+{511: 'These children tend to get into a lot of trouble, because they "engage in risky behaviors, get into fights, and challenge authority" in order to stimulate their brain, since their brain can not be stimulated by normal methods.'}
+{537: 'If the objective of one’s visit to a particular place is to get to know its history and culture then this type of tourism is known as cultural tourism.'}
+{553: 'Middle distance running is a relatively inexpensive sport; however, there are many misconceptions regarding the few pieces of equipment required to participate.'}
+{576: 'What is a cell? The word cell comes from the Latin word "cella", meaning "small room", and it was first coined by a microscopist observing the structure of cork.'}
+{578: 'Cells are so basic and critical to the study of life, in fact, that they are often referred to as "the building blocks of life".'}
+{583: 'These monster storms have winds up to 480 km/h (133 m/s; 300 mph).'}
+{590: 'But, if this ever does happen probably won\'t happen for a very long time. The stars are so spread out that there are trillions of miles between stars that are "neighbors".'}
+{593: 'Only animals have brains (though not even all animals do; jellyfish, for example, do not have brains).'}
+{620: 'While understanding one’s history does not assume understanding of culture, it does at least help people gain a sense of where they fall within the history of the organization.'}
+{632: 'For example, if you were to see someone breaking a car window, you would probably assume he was trying to steal a stranger’s car.'}
+{638: 'In 1977, Dr. Damadian completed the construction of the first “whole-body” MRI scanner, which he called the ”Indomitable”.'}
+{649: 'Thanks to undersea fiber optic cable links to Europe and broadband satellite, Greenland is well connected with 93% of the population having internet access.'}
+{651: 'As mentioned above, though the word "Eskimo" remains acceptable in the United States, it is considered pejorative by many non-U.S. Arctic peoples, especially in Canada.'}
+{654: 'Crime, and ill-will toward foreigners in general, is virtually unknown in Greenland. Even in the towns, there are no "rough areas."'}
+{665: 'The "typical" visit involves flying into Orlando International Airport, busing to an on-site Disney hotel, spending about a week without leaving Disney property, and returning home.'}
+{666: 'There are infinite variations possible, but this remains what most people mean when they talk of "going to Disney World".'}
+{683: 'On the other hand, it is precisely because the volume of water is so high that your viewing of the actual Falls will be obscured—by all the water!'}
+{697: 'Jerusalem has many historic, archeological and cultural sites, along with vibrant and crowded shopping centers, cafés, and restaurants.'}
+{702: 'Your passport must be valid for at least 6 months beyond your travel dates. A round/onward trip ticket is needed to prove the length of your stay.'}
+{715: 'This will ensure that your particular interests and/or constraints are matched with the ship most suitable to them.'}
+{719: 'The Dominican Republic (Spanish: República Dominicana) is a Caribbean country that occupies the eastern half of the island of Hispaniola, which it shares with Haiti'}
+{721: 'The island was first inhabited by the Taínos and Caribes. The Caribes were an Arawakan-speaking people who had arrived around 10,000 BCE.'}
+{723: 'Based on Fray Bartolomé de las Casas (Tratado de las Indias) between 1492 and 1498 the Spanish conquerors killed around 100,000 Taínos.'}
+{724: 'Jardín de la Unión. This space was built as the atrium for a 17th-century convent, of which the Templo de San Diego is the sole surviving building.'}
+{736: 'It is possible to secure park permits directly from the Ranger Station in Puerto Jiménez, but they do not accept credit cards'}
+{738: 'CafeNet El Sol offers a reservation service for a fee of US$30, or $10 for one-day passes; details on their Corcovado page.'}
+{741: 'With the same time zone as Hawaii, the islands are sometimes thought of as "Hawaii down under".'}
+{752: 'In short, using your car is a great way to take a road trip but seldom in itself a way to "camp".'}
+{754: 'Some hotels have a heritage from the golden age of steam railways and ocean liners; before the Second World War, in the 19th or early 20th centuries.'}
+{760: 'Joining such a network usually just requires filling out an online form; although some networks offer or require additional verification.'}
+{761: 'A listing of available hosts is then provided either in print and/or online, sometimes with references and reviews by other travelers.'}
+{764: 'Hostels cater primarily to young people – a typical guest is in their twenties – but you can often find older travellers there too.'}
+{795: "They need to show the insurer's e-mail address and international phone numbers for advice/authorizations and making claims."}
+{796: 'Have another copy in your luggage and online (e-mail to yourself with attachment, or stored in the "cloud").'}
+{798: 'Also give policy/contact copies to traveling companions and relatives or friends back home willing to help.'}
+{806: 'High-end brand-name frames available in such areas may have two problems; some may be knock-offs, and the real imported ones may be more expensive than at home.'}
+{819: 'When you travel, expect things not to be like they are "back home". Manners, laws, food, traffic, lodging, standards, language and so on will to some extent differ from where you live.'}
+{845: 'However, nowadays there are established graffiti artists, graffiti events and "legal" walls. Graffiti paintings in this context often resemble artworks rather than illegible tags.'}
+{855: 'Every train has both MetroPlus and Metro coaches; the MetroPlus coaches are always on the end of the train nearest Cape Town.'}
+{859: 'Some countries have exceedingly draconian punishments even for first time offenses; these can include prison sentences of over 10 years or death.'}
+{866: "If traveling in a developing country for the first time – or in a new part of the world – don't underestimate the potential culture shock."}
+{888: 'A couple of thousand staff live here in summer in some four dozen bases mostly in those areas; a small number stay over winter.'}
+{896: 'The pattern should be deep enough, 5 mm (1/5 inch) or more, and the material soft enough in cold temperatures.'}
+{899: 'Avalanches are not an abnormality; steep slopes can hold only so much slow, and the excess volumes will come down as avalanches.'}
+{903: 'They generate high winds (often 100-200 miles/hour) and can lift heavy objects into the air, carrying them as the tornado moves.'}
+{904: 'They begin as funnels descending from storm clouds, and become "tornadoes" when they touch the ground.'}
+{908: 'The media companies routinely lie about the purpose of this, claiming that it is to "prevent piracy".'}
+{909: 'In fact, region codes have absolutely no effect on illegal copying; a bit-for-bit copy of a disk will play just fine on any device where the original will.'}
+{910: "The actual purpose is to give those companies more control over their markets; it's all about money spinning."}
+{912: "There is also no requirement that you obtain a local number from the community in which you live; you can obtain a satellite Internet connection in the wilds of Chicken, Alaska and select a number which claims you're in sunny Arizona."}
+{914: 'Real-time text translator apps – applications that are capable of automatically translating whole segments of text from one language into another.'}
+{946: 'The White Sea–Baltic Canal connects the Arctic Ocean to the Baltic Sea, via Lake Onega, Lake Ladoga and Saint Petersburg, mostly by rivers and lakes.'}
+{973: 'In many parts of the world, waving is a friendly gesture, indicating "hello."'}
+{974: 'However, in Malaysia, at least among the Malays in rural areas, it means "come over," similar to the index finger bent toward the body, a gesture which is used in certain Western countries, and should be used only for that purpose.'}
+{987: 'These plateaus are often referred to as "vidde" meaning a wide, open treeless space, a boundless expanse.'}
+{988: 'In Rogaland and Agder they are usually called "hei" meaning a treeless moorland often covered in heather.'}
+{997: '"We now have 4-month-old mice that are non-diabetic that used to be diabetic," he added.'}
+{1001: 'Danius said, "Right now we are doing nothing. I have called and sent emails to his closest collaborator and received very friendly replies. For now, that is certainly enough."'}
+{1013: 'USA Gymnastics and the USOC have the same goal — making the sport of gymnastics, and others, as safe as possible for athletes to follow their dreams in a safe, positive and empowered environment.'}
+{1016: 'As NSA, he assisted Carter in diplomatically handling world affairs, such as the Camp David Accords, 1978; normalizing US–China relations thought the late 1970s; the Iranian Revolution, which led to the Iran hostage crisis, 1979; and the Soviet invasion in Afghanistan, 1979.'}
+{1020: 'Two songs from the movie, Audition (The Fools Who Dream) and City of Stars, received nominations for best original song. Lionsgate studio received 26 nominations — more than any other studio.'}
+{1022: 'The announcement was made after Trump had a phone conversation with Turkish President Recep Tayyip Erdoğan.'}
+{1027: 'Because the dinosaur feathers do not have a well-developed shaft, called a rachis, but do have other features of feathers — barbs and barbules — the researchers inferred the rachis was likely a later evolutionary development that these other features.'}
+{1040: 'The speeds of 802.11n are substantially faster than that of its predecessors with a maximum theoretical throughput of 600Mbit/s.'}
+{1042: 'When asked for comment, Miller said, "Mike talks a lot during the hearing...I was getting ready so I wasn\'t really hearing what he was saying."'}
+{1043: '"We will endeavour to cut carbon dioxide emissions per unit of GDP by a notable margin by 2020 from the 2005 level," Hu said.'}
+{1045: 'Hu encouraged developing countries "to avoid the old path of polluting first and cleaning up later."'}
+{1046: 'He added that "they should not, however, be asked to take on obligations that go beyond their development stage, responsibility and capabilities."'}
+{1051: 'First among its 78 recommendations is that a new diplomatic initiative should be taken before the end of this year to secure Iraq’s borders against hostile interventions and to re-establish diplomatic relations with its neighbors.'}
+{1054: 'The debate was sparked by controversy over spending on relief and reconstruction in the wake Hurricane Katrina; which some fiscal conservatives have humorously labeled "Bush\'s New Orleans Deal."'}
+{1069: 'Layton had asked for changes to the conservatives\' environmental bill during the meeting with the PM, asking for a "thorough and complete rewriting" of the Conservative party\'s environmental bill.'}
+{1076: 'Bush spokesman Gordon Johndroe called North Korea\'s pledge "a major step towards the goal of achieving the verifiable denuclearization of the Korean peninsula."'}
+{1083: '"He [Wales] basically lied to us from the start. First, by acting as if this was for legal reasons. Second, by pretending he was listening to us, right up to his art deletion."'}
+{1095: 'In an interview, he said the new variant was "very highly troubling and alarming because of the very high fatality rate."'}
+{1098: 'However, the percentage of XDR-TB in the entire group of people with tuberculosis still seems to be low; 6,000 of the total 330,000 people infected at any particular moment in South Africa.'}
+{1114: 'In 1956 Słania moved to Sweden, where three years later he began work for the Swedish Post Office and became their chief engraver.'}
+{1116: 'His work is of such recognized quality and detail that he is one of the very few "household names" among philatelists. Some specialize in collecting his work alone.'}
+{1117: 'His 1,000th stamp was the magnificent "Great Deeds by Swedish Kings" by David Klöcker Ehrenstrahl in 2000, which is listed in the Guinness Book of World Records.'}
+{1122: 'A person working in a garage near where the accident occurred said: "There were children waiting to cross the road and they were all screaming and crying."'}
+{1127: 'Fluke wrote that the efforts by some to drown out women from speaking out about women’s health were unsuccessful.'}
+{1141: '"This is not going to be goodbye. This is the closing of one chapter and the opening of a new one."'}
+{1148: 'Spokesman for Medecines Sans Frontiere Richard Veerman said: "Angola is heading for its worst ever outbreak and the situation remains very bad in Angola," he said.'}
+{1155: 'All of the cave entrances, which were named "The Seven Sisters", are at least 100 to 250 meters (328 to 820 feet) in diameter.'}
+{1157: '"They are cooler than the surrounding surface in the day and warmer at night.'}
+{1158: 'Their thermal behavior is not as steady as large caves on Earth that often maintain a fairly constant temperature, but it is consistent with these being deep holes in the ground," said Glen Cushing of the United States Geological Survey (USGS) Astrogeology Team and of Northern Arizona University located in Flagstaff, Arizona.'}
+{1166: 'The station\'s web site describes the show as "old school radio theater with a new and outrageous geeky spin!"'}
+{1171: 'Bishkek was described as sinking into a state of "anarchy" by one observer, as gangs of people roamed the streets and plundered stores of consumer goods.'}
+{1182: 'France is the seventh country in the European Union to suffer this virus; following Austria, Germany, Slovenia, Bulgaria, Greece and Italy.'}
+{1184: 'Chambers had sued God for "widespread death, destruction and terrorization of millions upon millions of the Earth\'s inhabitants."'}
+{1185: 'Chambers, an agnostic, argues that his lawsuit is "frivolous" and "anybody can sue anybody."'}
+{1186: 'The story presented in the French opera, by Camille Saint-Saens, is of an artist "whose life is dictated by a love for drugs and Japan."'}
+{1190: 'Perry stated that he would "return to Texas to assess the results of tonight\'s caucus, determine whether there is a path forward for myself in this race", but later said that he would remain in the race and compete in the January 21 South Carolina primary.'}
+{1193: 'He was reportedly aged in his 20s. In a statement, Bieber said "[w]hile I was not present nor directly involved with this tragic accident, my thoughts and prayers are with the family of the victim."'}
+{1215: 'The early reports say the plane was diverted back to Afghanistan after being denied an emergency landing in Ürümqi.'}
+{1239: '"She’s very cute and sings quite well, too," he said according to a transcript of the news conference.'}
+{1240: '"I was moved every time we did a rehearsal on this, from the bottom of my heart."'}
+{1243: 'NASA\'s shuttle program chief N. Wayne Hale Jr. said the foam had fallen "after the time we are concerned about."'}
+{1244: 'Five minutes into the display a wind starts rolling in, about a minute later, the wind is reaching 70km/h... then the rain comes, but so hard and so large that it slaps your skin like a needle, then hail fell from the sky, people panicking and screaming and running over each other.'}
+{1245: 'I lost my sister and her friend, and on my way there were two disabled people in wheelchairs, people just jumping over and pushing them," Armand Versace said.'}
+{1252: 'Some reports put the official death toll at eight, and official reports confirm that up to 30 were injured; but final numbers are not yet known.'}
+{1259: "That didn't seem to make sense to me; it certainly wasn't fair."}
+{1262: 'The bill requires violent video games sold in the state of California to be labeled with a decal reading "18" and makes their sale to a minor punishable by a fine of $1000 per offense.'}
+{1272: "Her other race, the Giant Slalom, saw her finish in tenth in the women's sitting group with a combined run time of 4:41.30, 2:11.60 minutes slower than first place finisher Austrian Claudia Loesch and 1:09.02 minutes slower than the ninth place finisher Gyöngyi Dani of Hungary."}
+{1275: 'Deputy Inspector General D K Arya said, "We have arrested five persons who raped the Swiss woman and recovered her mobile and laptop".'}
+{1286: 'Professor Pamela Ferguson of the University of Dundee notes "journalists do seem to be walking a dangerous line if publishing photos etc of suspects."'}
+{1301: 'Last week, METI announced that Apple had informed it of 34 additional overheating incidents, which the company called "non-serious."'}
+{1302: 'The ministry responded by calling Apple\'s postponement of the report "truly regrettable."'}
+{1311: 'Liggins followed in his father’s footsteps and entered a career in medicine.'}
+{1317: 'Tommy Dreamer said "Luna was the first Queen of Extreme. My first manager. Luna passed away on the night of two moons. Pretty unique just like her. Strong woman."'}
+{1318: 'Dustin "Goldust" Runnels commented that "Luna was as freaky as me...maybe even more...love her and will miss her...hopefully she\'s in a better place."'}
+{1330: 'He referred to the rumors as "political chatter and silliness".'}
+{1336: 'A study published on Thursday in the journal Science reported on formation of a new bird species on the Ecuadorean Galápagos Islands.'}
+{1340: 'It can be made very thin, and stuck onto other metal. It can be made so thin that it was sometimes used to decorate the hand-painted pictures in books called "illuminated manuscripts".'}
+{1352: 'The satellite was sent into space by a rocket. Scientists use telescopes in space because the Earth’s atmosphere distorts some of our light and view.'}
+{1381: 'It also attacked anything that entered the water; even a giant dinosaur such as T. rex would be no match for it.'}
+{1393: 'Women did the cooking in the yard; stores were just open counters looking into the street. Stone was used for building houses.'}
+{1400: 'Written on the back of the Declaration of Independence were the words "Original Declaration of Independence dated 4th July 1776". The text appears on the bottom of the document, upside down.'}
+{1401: 'While no one knows for certain who wrote it, it is known that early in its life, the large parchment document (it measures 29¾ inches by 24½ inches) was rolled up for storage.'}
+{1404: 'It was ruled by the "Vichy" French. These were French people who had made peace with the Germans in 1940 and worked with the invaders instead of fighting them.'}
+{1405: 'On 15 August 1940, the Allies invaded southern France, the invasion was called "Operation Dragoon".'}
+{1411: 'During the Revolutionary War, the thirteen states first formed a weak central government—with the Congress being its only component—under the Articles of Confederation.'}
+{1419: 'Due to the cluster/group of islands Japan has, Japan is often referred to, on a geographical stance, as an "archipelago"'}
+{1420: 'Taiwan beginning start way back in 15th century where European sailors passing by record the island’s name as Ilha Formosa, or beautiful island.'}
+{1422: 'In 1683, Qing dynasty (1644-1912) forces take control of Taiwan’s western and northern coastal areas and declared Taiwan as a province of the Qing Empire in 1885.'}
+{1447: 'Ancient China had a unique way of showing different time periods; each stage of China or each family that was in power was a distinctive dynasty.'}
+{1450: 'The Three Kingdoms was one of the bloodiest eras in Ancient China’s history thousands of people died fighting to sit in the highest seat in the grand palace at Xi’an.'}
+{1455: 'Muhammad was deeply interested in matters beyond this mundane life. He used to frequent a cave that became known as “Hira‘” on the Mountain of “Noor” (light) for contemplation.'}
+{1456: 'he cave itself, which survived the times, gives a very vivid image of Muhammad’s spiritual inclinations.'}
+{1462: 'The Giza Plateau, or "Giza Necropolis" in the Egyptian Valley of the Dead contains several pyramids (of which the great pyramid is the largest), several small tombs, several temples, and the great Sphinx.'}
+{1464: 'The "up bow" mark looks like a V and the "down bow mark" like a staple or a square missing its bottom side.'}
+{1476: 'The age where the events took place is commonly referred as the High Middle Ages the period of European history in the 11th, 12th, and 13th centuries (AD 1000–1300).'}
+{1479: 'Most interpretations of technological determinism share two general ideas: that the development of technology itself follows a path largely beyond cultural or political influence, and that technology in turn has "effects" on societies that are inherent, rather than socially conditioned.'}
+{1493: 'Subsistence agriculture is agriculture carried out for the production of enough food to meet just the needs of the agriculturalist and his/her family.'}
+{1497: 'Subcultures can be distinctive because of the age, ethnicity, class, location, and/or gender of the members.'}
+{1501: 'Such children are called "feral" or wild. Some feral children have been confined by people (usually their own parents); in some cases this child abandonment was due to the parents\' rejection of a child\'s severe intellectual or physical impairment.'}
+{1503: 'Others are alleged to have been brought up by animals; some are said to have lived in the wild on their own.'}
+{1516: 'For example, “learning” and “socialization” are suggested as important motivations for Internet use (James et al., 1995).'}
+{1517: '“Personal involvement” and “continuing relationships” were also identified as new motivation aspects by Eighmey and McCord (1998) when they investigated audience reactions to websites.'}
+{1529: 'All things considered, we should not be surprised if our own ancestors solved their "protein problem" in somewhat the same way that chimps on the savanna do today.'}
+{1530: 'Sleep interruption is the process of purposefully awakening during your normal sleep period and falling asleep a short time later (10–60 minutes).'}
+{1534: 'The amount of inner peace a person possesses correlates oppositely to the amount of tension in one’s body and spirit.'}
+{1566: 'Through the night between 150 and 200 copies were made, now known as "Dunlap broadsides".'}
+{1588: 'Science’s main goal is to figure out the way the world works through the scientific method. This method in fact guides most scientific research.'}
+{1589: 'It isn’t alone though, experimentation, and an experiment is a test that is used to eliminate one or more of the possible hypotheses, asking questions, and making observations also guide scientific research.'}
+{1612: 'Fortunately, drivers tend to behave within a reasonably consistent range; thus, traffic streams tend to have some reasonable consistency and can be roughly represented mathematically.'}
+{1620: 'Some people thought he was right but many people believed the opposite; that the Solar System moved around the Earth, including the Sun (and even the other stars).'}
+{1652: 'These theories suggest that people have certain needs and/or desires which have been internalized as they mature to adulthood.'}
+{1655: 'Generally speaking, two behaviors can emerge as managers begin to lead their former peers. One end of the spectrum is trying to remain “one of the guys” (or gals).'}
+{1663: 'The presence of a true “invisible team” (Larson and LaFasto, 1989, p109) is also a unique component of a virtual team.'}
+{1664: 'The “invisible team” is the management team to which each of the members report. The invisible team sets the standards for each member.'}
+{1679: 'The AI \u200b\u200bsystem is now often used in the fields of economics, medicine, engineering and the military, as has been built in several home computer and video game software applications.'}
+{1686: 'Also blogging "forces students to become more savvy about the world around them." The need to feed the interest of the audience inspires students to be clever and interesting (Toto, 2004).'}
+{1688: 'Appropriate use of blogs "can empower students to become more analytical and critical; through actively responding to Internet materials, students can define their positions in the context of others\' writings as well as outline their own perspectives on particular issues (Oravec, 2002).'}
+{1710: 'In 2002 Goma was destroyed by lava from the Nyiragongo volcano which buried most of the town’s streets, particularly the town centre.'}
+{1713: 'You can use boda-boda (motorcycle taxi) to get around Goma. The normal (local) price is ~500 Congolese Francs for the short ride.'}
+{1714: 'Combined with its relative inaccessibility, "Timbuktu" has come to be used as a metaphor for exotic, distant lands.'}
+{1720: 'The park covers 19,500 km² and is divided in 14 different ecozones, each supporting different wildlife.'}
+{1731: "The forests aren't just mangrove swamps though — they include some of the last remaining stands of the mighty jungles which once covered the Gangetic plain."}
+{1732: 'The Sundarbans cover an area of 3,850 km², of which about one-third is covered in water/marsh areas.'}
+{1734: 'Buses depart the inter-district bus station (across the river) throughout the day, though most, especially those heading to the east and Jakar/Bumthang leave between 06:30 and 07:30.'}
+{1742: 'The Guaraní were the most significant indigenous group inhabiting what is now Eastern Paraguay, living as semi-nomadic hunters who also practised subsistence agriculture.'}
+{1743: 'The Chaco region was home to other groups of indigenous tribes such as the Guaycurú and Payaguá, who survived by hunting, gathering and fishing.'}
+{1744: 'In the 16th century Paraguay, formerly called "The Giant Province of the Indies", was born as a result of the encounter of Spanish conquerors with the native indigenous groups.'}
+{1746: 'Since the foundation of Asunción in 1537, Paraguay has managed to keep a lot of its indigenous character and identity.'}
+{1748: 'The largest tournament of the year takes place in December at the polo fields in Las Cañitas.'}
+{1754: 'On the outlying islands credit cards will probably not be accepted, although British and United States currency may be taken; check with the owners in advance to determine what is an acceptable payment method.'}
+{1757: 'Montevideo is in the subtropics; in the summer months, temperatures above +30°C are common.'}
+{1759: 'There are no particular "rainy" and "dry" seasons: the amount of rain stays roughly the same throughout the year.'}
+{1761: 'According to park authorities, stay at least 100 yards/meters away from bears and wolves and 25 yards/meters from all other wild animals!'}
+{1775: 'The main local beer is \'Number One\', it is not a complex beer, but pleasant and refreshing. The other local beer is called "Manta".'}
+{1787: 'Travel agents usually offer packages that include breakfast, transportation arrangements to/from the airport or even combined flight and hotel packages.'}
+{1808: 'A walking safari (also called a "bush walk", "hiking safari", or going "footing") consists of hiking, either for a few hours or several days.'}
+{1813: "It's expected that most event tickets will cost between ¥2,500 and ¥130,000, with typical tickets costing around ¥7,000."}
+{1827: 'Posted speed limits are noticeably lower than in previous and subsequent sections — commonly 35-40 mph (56-64 km/h) — and strict obedience to them is even more important than otherwise.'}
+{1834: 'A curry can be either "dry" or "wet" depending on the amount of liquid.'}
+{1835: 'In inland regions of Northern India and Pakistan, yogurt is commonly used in curries; in Southern India and some other coastal regions of the subcontinent, coconut milk is commonly used.'}
+{1844: "Cochamó Valley - Chile's premier climbing destination, known as the Yosemite of South America, with a variety of granite big walls and crags."}
+{1847: 'Skiing is a major travelling activity with many enthusiasts, occasionally known as "ski bums," planning entire vacations around skiing at a particular location.'}
+{1848: 'The idea of skiing is very old — cave paintings depicting skiers date back as far as 5000 BC!'}
+{1853: 'In good conditions you will be able to cover somewhat greater distances than walking – but only very seldom you will get the speeds of cross country skiing without a heavy backpack in groomed tracks.'}
+{1861: 'Reindeer husbandry is an important livelihood among the Sámi and the culture surrounding the trade is important also for many with other professions.'}
+{1862: 'Even traditionally, though, not all Sámi have been involved in big scale reindeer husbandry, but lived from fishing, hunting and similar, having reindeer mostly as draft animals.'}
+{1863: 'Today many Sámi work in modern trades. Tourism is an important income in Sápmi, the Sámi area.'}
+{1864: 'Though it is widely used, especially among non-Romani, the word "Gypsy" is often considered offensive because of its associations with negative stereotypes and inaccurate perceptions of Romani people.'}
+{1914: 'Finland is a great boating destination. The "Land of a thousand lakes" has thousands of islands too, in the lakes and in the coastal archipelagos.'}
+{1934: 'The capital of Moldova is Chişinău. The local language is Romanian, but Russian is widely used.'}
+{1939: 'İzmir is the third largest city in Turkey with a population of around 3.7 million, the second biggest port after Istanbul, and a very good transport hub.'}
+{1942: 'The village of Haldarsvík offer views of the nearby island Eysturoy and has an unusual octagonal church.'}
+{1957: 'While this is often only an inaccurate stereotype, the best way to get along in Paris still is to be on your best behavior, acting like someone who is "bien élevé" (well brought up). It will make getting about considerably easier.'}
+{1985: 'Plants look their best when in a natural environment, so resist the temptation to remove even "just one" specimen.'}
+{1986: 'If visiting a formally arranged garden, collecting "specimens" is also going to get you ejected, without discussion.'}
+{1988: 'But being placed in the "high tropics" just a few degrees north of equator you will need to deal with both heat (always) and strong sun (when the sky is clear, more rarely).'}
